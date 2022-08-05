@@ -1,4 +1,5 @@
 //splice : The splice() method adds and/or removes array elements. The splice() method overwrites the original array.
+//splice : The splice() method adds and/or removes array elements. The splice() method overwrites the original array.
 //syntax
 //array.splice(index, howmany, item1, ....., itemX)
 
