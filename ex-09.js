@@ -1,4 +1,4 @@
-// find out the max and min from the given array
+// find out the max from the given array
 
 const arr = [0, 3, 5, 2, 0, 16];
 
