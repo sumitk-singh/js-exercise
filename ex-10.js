@@ -16,4 +16,4 @@ async function fetchAPI() {
 
 fetchAPI();
 
-// bacaise Fetch is based on async and await
+// bacause Fetch is based on async and await
