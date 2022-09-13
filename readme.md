@@ -11,3 +11,4 @@ ___
 ### Ex-09: Find out the max from the given array
 ### Ex-10: Fetch the custom data form the given API url
 ### Ex-11: Call method
+### Ex-12: Bind method
