@@ -12,14 +12,13 @@
 
 //--------------------------------------------------------------
 // Ques 16.2
-// List all the even number in between 1 to 100
+// List all the even number in between 1 to 20
 
 let count = 0;
 
-for(let i=1;i<=5;i++){
-    if(i%2==0){
-        count = count +1;
-        console.log(count);
+for (let i = 1; i <= 2; i++) {
+    if (i % 2 == 0) {
+        count += 1;
     }
 }
-
+console.log(`Total number of even number is ${count}`);
