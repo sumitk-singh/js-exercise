@@ -1,14 +1,14 @@
 // Ques 16.1
 // Check Odd or Even
 
-// const number = prompt("enter number");
+const number = prompt("enter number");
 
-// if (number % 2 == 0) {
-//     console.log(`${number} is even number`);
-// }
-// else {
-//     console.log(`${number} is odd number`);
-// }
+if (number % 2 == 0) {
+    console.log(`${number} is even number`);
+}
+else {
+    console.log(`${number} is odd number`);
+}
 
 //--------------------------------------------------------------
 // Ques 16.2
