@@ -9,7 +9,6 @@ console.log(acc_order_product);
 const acc_order_price = price.sort(function (a, b) {
     return (a - b);
 })
-
 console.log(acc_order_price);
 
 //in decending order
