@@ -12,3 +12,7 @@ ___
 ### Ex-10: Fetch the custom data form the given API url
 ### Ex-11: Call method
 ### Ex-12: Bind method
+### Ex-13: callback function
+### Ex-14: reverse the word
+### Ex-15: Check Armstrong Number
+
