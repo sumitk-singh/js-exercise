@@ -15,4 +15,6 @@ ___
 ### Ex-13: callback function
 ### Ex-14: reverse the word
 ### Ex-15: Check Armstrong Number
+### Ex-16: Even number in between 1 to 100
+### Ex-17: Factorial 
 
