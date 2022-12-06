@@ -17,4 +17,7 @@ ___
 ### Ex-15: Check Armstrong Number
 ### Ex-16: Even number in between 1 to 100
 ### Ex-17: Factorial 
+### Ex-18: LCM of 2 Numbers
+### Ex-19: Check the leap year
+### Ex-20: Check the prime number
 
