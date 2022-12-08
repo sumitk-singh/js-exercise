@@ -20,4 +20,6 @@ ___
 ### Ex-18: LCM of 2 Numbers
 ### Ex-19: Check the leap year
 ### Ex-20: Check the prime number
+### Ex-21: Check Palindrome Number
+
 
