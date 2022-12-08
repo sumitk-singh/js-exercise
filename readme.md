@@ -22,5 +22,5 @@ ___
 ### Ex-20: Check the prime number
 ### Ex-21: Check Palindrome Number
 ### Ex-22: operation in between number and string
-
+### Ex-23: Find the most frequent item of an array
 
