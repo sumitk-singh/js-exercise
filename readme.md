@@ -21,5 +21,6 @@ ___
 ### Ex-19: Check the leap year
 ### Ex-20: Check the prime number
 ### Ex-21: Check Palindrome Number
+### Ex-22: operation in between number and string
 
 
