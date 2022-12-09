@@ -23,4 +23,4 @@ ___
 ### Ex-21: Check Palindrome Number
 ### Ex-22: operation in between number and string
 ### Ex-23: Find the most frequent item of an array
-
+### Ex-24: Remove duplicate element in an array
