@@ -25,3 +25,4 @@ ___
 ### Ex-23: Find the most frequent item of an array
 ### Ex-24: Remove duplicate element in an array
 ### Ex-25: Sort in accending and decending order
+### Ex-26: Usage of while and do while
