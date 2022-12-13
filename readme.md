@@ -1,4 +1,4 @@
-## General js based questions
+## General js based questions list
 ___
 ### Ex-01: Get unique elements from an array
 ### Ex-02: Count the number greater the 5 in the given array
