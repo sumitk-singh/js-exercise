@@ -27,3 +27,4 @@ ___
 ### Ex-25: Sort in accending and decending order
 ### Ex-26: Usage of while and do while
 ### Ex-27: Generate random email id
+### Ex-28: Count the frequency of elements in a array
