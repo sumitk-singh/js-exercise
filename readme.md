@@ -29,3 +29,4 @@ ___
 ### Ex-27: Generate random email id
 ### Ex-28: Count the frequency of elements in a array
 ### Ex-29: Get random fruits name
+### Ex-30: Get random mobile number
